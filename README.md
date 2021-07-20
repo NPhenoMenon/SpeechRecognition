@@ -5,3 +5,6 @@ https://github.com/Uberi/speech_recognition/blob/master/reference/library-refere
 
 Here are some methods we can use to edit the audio file.
 https://www.geeksforgeeks.org/working-with-wav-files-in-python-using-pydub/ 
+
+Here are some submarine recordings:
+https://maritime.org/sound/
